@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="029c315a-2576-4d36-b4ff-9bffaead4c2c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="爬虫基础" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第六部分--实战演练/04-爬天气预报（数据分析一）.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第六部分--实战演练/05-爬天气预报（数据分析二）.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#50#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第六部分--实战演练/06-爬天气预报（数据分析三）.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="e#42#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import requests</find>
+      <find>赛尔</find>
+      <find>headers</find>
+      <find>tr</find>
+      <find>hre</find>
+      <find>div</find>
+      <find>body</find>
+      <find>the</find>
+      <find>table</find>
+      <find>天气现象</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/第一部分/03-urlencode函数.py" />
+        <option value="$PROJECT_DIR$/第一部分/03-urlencode和parse_qs函数.py" />
+        <option value="$PROJECT_DIR$/第一部分/04-案例1.py" />
+        <option value="$PROJECT_DIR$/第一部分/05-urlparse和urlsplit函数.py" />
+        <option value="$PROJECT_DIR$/第一部分/06-Request类.py" />
+        <option value="$PROJECT_DIR$/第一部分/01-urlopen函数.py" />
+        <option value="$PROJECT_DIR$/第一部分/07-案例三（高级验证）.py" />
+        <option value="$PROJECT_DIR$/第一部分/08-案例三（代理）.py" />
+        <option value="$PROJECT_DIR$/第一部分/09-案例五（cookie）.py" />
+        <option value="$PROJECT_DIR$/第一部分/1.py" />
+        <option value="$PROJECT_DIR$/第一部分/06-案例二（拉勾网爬职位）.py" />
+        <option value="$PROJECT_DIR$/第一部分/10-代理补充.py" />
+        <option value="$PROJECT_DIR$/第一部分/08-案例四（代理）.py" />
+        <option value="$PROJECT_DIR$/第一部分/11-案例 模拟登陆.py" />
+        <option value="$PROJECT_DIR$/第一部分/07-案例三 模拟登陆3（完善）py" />
+        <option value="$PROJECT_DIR$/第一部分/07-案例三 模拟登陆2.py" />
+        <option value="$PROJECT_DIR$/第一部分/07-案例三 模拟登陆3（完善）.py" />
+        <option value="$PROJECT_DIR$/第二部分-requests库/01-get请求.py" />
+        <option value="$PROJECT_DIR$/第一部分-urllib库/06-案例二（拉勾网爬职位）.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/01-get请求.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/02-get案例.py" />
+        <option value="$PROJECT_DIR$/第一部分-urllib库/08-案例四（代理）.py" />
+        <option value="$PROJECT_DIR$/第一部分-urllib库/10-代理补充.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/03-代理问题.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/05-cookie信息.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/06-session案例.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/03-post案例（拉勾网职位）.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/07-正则回忆.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/09-正则.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/09-复习.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/07-正则补充.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取QQ音乐歌曲名.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取猫眼电影信息.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/1.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/8-yield用法.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/01-前篇py.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/01-猫眼电影新py.py" />
+        <option value="$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取图片.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/lagou.html" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/01-拉勾网实践.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/tenxun.html" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/02-网站实践.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/douban.html" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/02-豆瓣电影一.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/03-电影天堂一.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/03-电影天堂二.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/04-电影天堂（完善）.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/05-xpath规则、text和content补充.py" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/01-介绍.py" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/01- find 和 find_all介绍.py" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/rr.html" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/hh.html" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/02-select 方法介绍.py" />
+        <option value="$PROJECT_DIR$/第三部分-XPath库/hh.py" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/03-补充.py" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/04-补充二.py" />
+        <option value="$PROJECT_DIR$/第四部分-beautiful soup库/05-CSS选择器补充.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/01-Json文件.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/02-Json--python-文件.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/03-Python到CSV文件.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/04-读取CSV文件.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/03-写入CSV文件.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/05-spidernews练习.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/hh.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/05-spidernews练习（前奏）.py" />
+        <option value="$PROJECT_DIR$/第五部分-数据存储/06-spidernews练习.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/01-.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/01-爬天气预报.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/01-爬天气预报（网页解析思路）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/02-爬天气预报.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/1.txt" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/03-爬天气预报（二）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/04-爬天气预报（数据分析）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/05-爬天气预报（数据分析）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/04-爬天气预报（数据分析一）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/05-爬天气预报（数据分析二）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/hh.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/06-爬天气预报（数据分析三）.py" />
+        <option value="$PROJECT_DIR$/第六部分--实战演练/jupyter实验.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="width" value="1340" />
+    <option name="height" value="719" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\爬虫基础\第六部分--实战演练" />
+      <recent name="E:\PythonProjects\爬虫基础\第五部分-数据存储" />
+      <recent name="E:\PythonProjects\爬虫基础\第四部分-beautiful soup库" />
+      <recent name="E:\PythonProjects\爬虫基础\第三部分-XPath库" />
+      <recent name="E:\PythonProjects\爬虫基础\第二部分-Requests库" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.06-爬天气预报（数据分析三）">
+    <configuration name="04-爬天气预报（数据分析）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六部分--实战演练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\PythonProjects\爬虫基础\第六部分--实战演练\05-爬天气预报（数据分析二）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-爬天气预报（数据分析）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六部分--实战演练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\PythonProjects\爬虫基础\第六部分--实战演练\04-爬天气预报（数据分析一）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-爬天气预报（数据分析二）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六部分--实战演练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第六部分--实战演练/05-爬天气预报（数据分析二）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-spidernews练习（前奏）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五部分-数据存储" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第五部分-数据存储/05-spidernews练习（前奏）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06-爬天气预报（数据分析三）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六部分--实战演练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第六部分--实战演练/06-爬天气预报（数据分析三）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫基础" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六部分--实战演练" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第六部分--实战演练/hh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.06-爬天气预报（数据分析三）" />
+        <item itemvalue="Python.hh" />
+        <item itemvalue="Python.05-爬天气预报（数据分析）" />
+        <item itemvalue="Python.04-爬天气预报（数据分析）" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="029c315a-2576-4d36-b4ff-9bffaead4c2c" name="Default Changelist" comment="" />
+      <created>1571635081716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571635081716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="21" y="0" width="1340" height="719" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8432709" visible="true" weight="0.20430107" />
+      <window_info id="Structure" order="1" sideWeight="0.15672913" side_tool="true" weight="0.25038284" />
+      <window_info id="Favorites" order="2" sideWeight="0.50246304" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13117547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30834752" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32879046" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5038226" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49617738" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8432709" visible="true" weight="0.25038284" />
+      <window_info id="Structure" order="1" sideWeight="0.15672913" side_tool="true" visible="true" weight="0.25038284" />
+      <window_info id="Favorites" order="2" sideWeight="0.50246304" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13117547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30834752" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32879046" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5038226" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49617738" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第一部分/baidu" />
+    <entry file="file://$PROJECT_DIR$/第一部分/luxun.jpg" />
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/03-urlencode和parse_qs函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/05-urlparse和urlsplit函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#16#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/02-urlretrieve函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/01-urlopen函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding>
+            <element signature="e#754#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分/1.py" />
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/04-案例1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/06-Request类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分/renren.html" />
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/cookies.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="648" selection-start-line="648" selection-end-line="648" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/07-案例三 模拟登陆1（有问题）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/07-案例三 模拟登陆2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/09-案例五（cookie）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="28" selection-start-line="10" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#25#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/pfofile" />
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/08-案例四（代理）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#25#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/10-代理补充.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="e#25#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/01-get请求.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/07-案例三 模拟登陆3（完善）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="97" lean-forward="true" selection-start-line="15" selection-start-column="97" selection-end-line="15" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/05-cookie信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv1/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/06-session案例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/04-代理问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv1/Lib/site-packages/requests/status_codes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2222">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/09-复习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取QQ音乐歌曲名.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="95" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="95" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/8-yield用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/07-正则补充.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取网页.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="108" selection-start-line="14" selection-start-column="108" selection-end-line="14" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取猫眼电影信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/03-post案例（拉勾网职位）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/08-正则-爬取图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1900889418/lxml/etree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="382" column="46" lean-forward="true" selection-start-line="382" selection-start-column="25" selection-end-line="382" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/02-豆瓣电影一.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/01-拉勾网实践.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="51" selection-start-line="4" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二部分-Requests库/02-get案例（百度搜索中国）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" column="137" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="137" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/douban.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/03-电影天堂一.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/lagou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7458">
+          <caret line="288" column="63" selection-end-line="1843" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#i#0;n#div#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#7;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#7;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#8;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#9;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#10;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#11;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#12;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#13;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#div#0;n#li#14;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/05-xpath规则、text和content补充.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="32" lean-forward="true" selection-start-line="25" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/rr.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="859" column="8" selection-start-line="859" selection-start-column="8" selection-end-line="859" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/hh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/hh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/04-补充二.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/03-补充.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#37#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/02-select 方法介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/01- find 和 find_all介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/01-python---Json文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="35" column="103" selection-start-line="35" selection-start-column="103" selection-end-line="35" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/02-Json--python-文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/persons.json" />
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/persons1.json" />
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/04-读取CSV文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/class1.csv" />
+    <entry file="file://$PROJECT_DIR$/第一部分-urllib库/06-案例二（拉勾网爬职位）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="4" column="225" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="225" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四部分-beautiful soup库/05-CSS选择器补充.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/news.csv" />
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/hh.py" />
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/05-spidernews练习（前奏）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/06-spidernews练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/03-写入CSV文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五部分-数据存储/class.csv" />
+    <entry file="file://$PROJECT_DIR$/第三部分-XPath库/04-电影天堂（完善）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/01-爬天气预报（网页解析思路）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/02-爬天气预报.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="67" column="48" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="48" />
+          <folding>
+            <element signature="e#32#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/03-爬天气预报（二）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1900889418/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="3680" column="12" selection-start-line="3680" selection-start-column="8" selection-end-line="3680" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/city.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/temper.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/04-爬天气预报（数据分析一）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/05-爬天气预报（数据分析二）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#50#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pyecharts/charts/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/jupyter实验.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pyecharts/charts/basic_charts/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/hh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六部分--实战演练/06-爬天气预报（数据分析三）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#42#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

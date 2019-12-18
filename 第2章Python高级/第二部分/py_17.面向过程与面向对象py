@@ -1,0 +1,28 @@
+class Hh:
+
+    def m1(self):
+        print('a')
+
+    def m2(self, m):  # 面向对象中函数的嵌套
+        print('b')
+        m.m1()
+
+
+def m3():  # 面向过程中函数的嵌套
+    print('面向')
+
+
+def m4():
+    print('过程')
+    m3()
+
+
+if __name__ == '__main__':
+    h = Hh()
+    h.m1()
+    h.m2(h)
+    
+    print('*'*40)
+
+    m3()
+    m4()
